@@ -1,0 +1,5 @@
+*.bin
+*.hex
+*.osf
+*.ocf
+odc*
