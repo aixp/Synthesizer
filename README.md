@@ -1,6 +1,6 @@
 # Synthesizer
 
-This repository contains the source code for a synthesizer (currently resembling an electronic piano) designed for the STM32F4-family microcontroller,
+This repository contains the source code for an audio synthesizer (currently resembling an electronic piano) designed for the STM32F4-family microcontroller,
 mostly written in the [Oberon](https://en.wikipedia.org/wiki/Oberon_(programming_language)) programming language.
 
 ## Features
